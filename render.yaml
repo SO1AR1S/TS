@@ -1,0 +1,9 @@
+node -v # This should be above v20.17.0!
+
+git clone https://github.com/thekittycatclub/Kitty-Cat-Club
+
+cd Kitty-Cat-Club
+
+npm install
+
+npm start
